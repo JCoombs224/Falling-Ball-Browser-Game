@@ -5,19 +5,21 @@
 body{
     margin-top: 20vh;
     font-family: "Questrial", sans-serif;
+    background-color: whitesmoke;
 }
 #game{
     width: 400px;
     height: 500px;
     border: 1px solid black;
     margin: auto;
+    background-color: white;
 }
 #border{
     position: relative;
     align-items: center;
     width: 100%;
     height: 20px;
-    background-color: white;
+    background-color: whitesmoke;
     z-index: 9999999;
 }
 #character{
@@ -51,7 +53,7 @@ body{
     display: flex;
     justify-content: center;
     text-align: center;
-    margin-top: 50px;
+    margin-top: 30px;
     font-size: 1.3em;
 }
 #score{
