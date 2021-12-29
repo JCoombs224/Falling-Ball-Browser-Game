@@ -4,3 +4,5 @@
 
 <nl></nl>
 Use arrow keys to control the ball.
+
+<img src="img/1.png"></img>
